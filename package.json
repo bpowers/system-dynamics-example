@@ -1,0 +1,15 @@
+{
+  "name": "system-dynamics-example",
+  "version": "1.0.0",
+  "main": "sim.mjs",
+  "license": "MIT",
+  "dependencies": {
+    "@system-dynamics/engine": "^1.1.1",
+    "@system-dynamics/importer": "^1.1.0",
+    "@system-dynamics/xmutil": "^1.1.1"
+  },
+  "scripts": {
+    "build": "node serialize.mjs Lotka_Volterra.mdl model.pb",
+    "sim": "node sim.mjs model.pb"
+  }
+}
