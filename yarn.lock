@@ -2,15 +2,15 @@
 # yarn lockfile v1
 
 
-"@system-dynamics/engine@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@system-dynamics/engine/-/engine-1.2.0.tgz#8d724292083af534e1e5c0759f4aa2f6a070d371"
-  integrity sha512-DcYCKd6QwjVMzL3qXc1AjZrZsIcxKM+R3+OZ3sixVdyn6a6oUxDH5oY3x0HSVXvlkHbo4jbq8ptdjAfarKAP/Q==
+"@system-dynamics/engine@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@system-dynamics/engine/-/engine-1.2.1.tgz#09976405808052cbc3e1f200cb337228abcb2693"
+  integrity sha512-uo6XqrllrhJ9Zxc0jy49017b6NYiWKXNFmTwxIvbo+9gBMP4pHybSUPb/XbdSoWmQmNXjDTCOa6WfTRkw3pbbA==
 
-"@system-dynamics/importer@^1.3.0":
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/@system-dynamics/importer/-/importer-1.3.0.tgz#5af1fddd4aa4696eb7e820412b2ec9bcc8cb1fac"
-  integrity sha512-sixlcE+OpdqiAgDd/ZeTnp4VBUIIbZMHuC6olfXPoNq7nqH4NOLlLdJYClHWC8zivL5Z9NT6oJ2Yb7mz4MNL/w==
+"@system-dynamics/importer@^1.3.1":
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/@system-dynamics/importer/-/importer-1.3.1.tgz#67cac268852cdec7df413708d3bb9ed6b6832536"
+  integrity sha512-RVW9ylY3Ry59tuybGlKFRao0LHZB8SshsX3f5UKqhnkRYHqSnXHc0A4foQnoQiEtSPe0bAbQDFto1t5D4Uxk0g==
 
 "@system-dynamics/xmutil@^1.1.3":
   version "1.1.3"
