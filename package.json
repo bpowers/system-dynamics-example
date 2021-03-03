@@ -1,7 +1,7 @@
 {
   "name": "system-dynamics-example",
   "version": "1.0.0",
-  "main": "sim.mjs",
+  "main": "index.html",
   "license": "MIT",
   "dependencies": {
     "@system-dynamics/engine": "^1.2.1",
@@ -11,5 +11,18 @@
   "scripts": {
     "build": "node serialize.mjs Lotka_Volterra.mdl model.pb",
     "sim": "node sim.mjs model.pb"
-  }
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1",
+    "typescript": "^4.2.2"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "browserslist": [
+    "last 2 Chrome versions",
+    "last 2 Firefox versions",
+    "last 1 Safari versions",
+    "last 1 ios_saf versions"
+  ]
 }
