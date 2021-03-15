@@ -1681,15 +1681,15 @@
     chrome-trace-event "^1.0.2"
     nullthrows "^1.1.1"
 
-"@system-dynamics/engine@^1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@system-dynamics/engine/-/engine-1.2.1.tgz#09976405808052cbc3e1f200cb337228abcb2693"
-  integrity sha512-uo6XqrllrhJ9Zxc0jy49017b6NYiWKXNFmTwxIvbo+9gBMP4pHybSUPb/XbdSoWmQmNXjDTCOa6WfTRkw3pbbA==
+"@system-dynamics/engine@^1.2.4":
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/@system-dynamics/engine/-/engine-1.2.4.tgz#49ca154f13bd0f1c7c9c510bb30ee1657b4eab5c"
+  integrity sha512-h941ntZ8KwhRxgQOE67UdrzumBbKkPPKvrvVOLQkfd392TYE+ctYaPe/Ws40qoF1/WWg+dWBrrlgtxYTE280xQ==
 
-"@system-dynamics/importer@^1.3.1":
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/@system-dynamics/importer/-/importer-1.3.1.tgz#67cac268852cdec7df413708d3bb9ed6b6832536"
-  integrity sha512-RVW9ylY3Ry59tuybGlKFRao0LHZB8SshsX3f5UKqhnkRYHqSnXHc0A4foQnoQiEtSPe0bAbQDFto1t5D4Uxk0g==
+"@system-dynamics/importer@^1.3.3":
+  version "1.3.4"
+  resolved "https://registry.yarnpkg.com/@system-dynamics/importer/-/importer-1.3.4.tgz#4c04b5dd528cee25ba685b96ceed4494341e99ec"
+  integrity sha512-q8bzfqe2Kau5zXTDxFdSscTQCre7D15G1orgujMTe0VYasy7L2dE6bGv5mu0R2HSmLIrR69uz9o5ZYYMomwjww==
 
 "@system-dynamics/xmutil@^1.1.3":
   version "1.1.3"
